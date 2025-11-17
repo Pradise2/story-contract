@@ -1,4 +1,3 @@
-REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
